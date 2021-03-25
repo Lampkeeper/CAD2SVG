@@ -1,0 +1,10 @@
+C:\Users\dev\source\repos\DXF2SVG\bin\Release\DXF2SVG.exe.config
+C:\Users\dev\source\repos\DXF2SVG\bin\Release\DXF2SVG.exe
+C:\Users\dev\source\repos\DXF2SVG\bin\Release\DXF2SVG.pdb
+C:\Users\dev\source\repos\DXF2SVG\bin\Release\netDxf.dll
+C:\Users\dev\source\repos\DXF2SVG\bin\Release\netDxf.xml
+C:\Users\dev\source\repos\DXF2SVG\obj\Release\DXF2SVG.csprojAssemblyReference.cache
+C:\Users\dev\source\repos\DXF2SVG\obj\Release\DXF2SVG.csproj.CoreCompileInputs.cache
+C:\Users\dev\source\repos\DXF2SVG\obj\Release\DXF2SVG.csproj.CopyComplete
+C:\Users\dev\source\repos\DXF2SVG\obj\Release\DXF2SVG.exe
+C:\Users\dev\source\repos\DXF2SVG\obj\Release\DXF2SVG.pdb
