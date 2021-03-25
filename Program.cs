@@ -30,8 +30,16 @@ namespace DXF2SVG
 
         static void Main(string[] args)
         {
-            string filename = "C:\\Users\\dev\\Desktop\\test2.dxf";
-            OutputAll(filename);
+            if(args.Length == 0)
+            {
+                return;
+            }
+            else
+            {
+                //文件名
+                string filename = args[0];
+                OutputAll(filename);
+            }
         }
 
         private static void OutputAll(string filename)
